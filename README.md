@@ -59,6 +59,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/cx_870630/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -86,8 +92,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
