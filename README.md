@@ -9,6 +9,13 @@
 
 ###
 
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%"/>
+</div>
+
+###
+
 <h3 align="left">Languages :</h3>
 
 ###
@@ -59,12 +66,6 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-###
 
 <h3 align="left">Contact me via :</h3>
 
