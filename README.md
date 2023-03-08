@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/qazwsx521943/qazwsx521943/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
