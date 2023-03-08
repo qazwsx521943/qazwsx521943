@@ -11,7 +11,7 @@
 
 <br clear="both">
 <div align="center">
-<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%"/>
+<img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ###
