@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jason and I'm a Front End Develop, from Taiwan, Taipei</h2>
+<h2 align="left">Hi 👋! My name is Jason and I'm a Front End Developer from Taipei, Taiwan</h2>
 
 ###
 
