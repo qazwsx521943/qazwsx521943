@@ -2,7 +2,7 @@
 
 ###
 
-<h3 >Temporary Personal Website 👉 <a href="https://jasonfrontendroadmap.vercel.app/">CLICK ME!</a></h2>
+<h3 align="center" >Temporary Personal Website 👉 <a href="https://jasonfrontendroadmap.vercel.app/">CLICK ME!</a></h2>
 
 
 ###
@@ -78,7 +78,7 @@
 ###
 
 <div align="left">
-  <a href="qazwsx5219430630@gmail.com" target="_blank">
+  <a href="mailto:qazwsx5219430630@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/qazwsx521943/" target="_blank">
