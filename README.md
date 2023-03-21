@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center" >Temporary Personal Website 👉 <a href="https://jasonfrontendroadmap.vercel.app/">CLICK ME!</a></h2>
+<h3 align="center" >Temporary Personal Website 👉 <a target="_blank" href="https://jasonfrontendroadmap.vercel.app/">CLICK ME!</a></h2>
 
 
 ###
