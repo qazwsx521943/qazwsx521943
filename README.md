@@ -6,8 +6,8 @@
 
 ###
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!-- START_SECTION:SHOW_TOTAL -->
+<!-- END_SECTION:SHOW_TOTAL -->
 
 ###
 
@@ -76,7 +76,6 @@
 
 ###
 
-
 <h3 align="left">Contact me via :</h3>
 
 ###
@@ -91,7 +90,3 @@
 </div>
 
 ###
-
-
-
-
