@@ -2,7 +2,7 @@
 
 ###
 
-<img width="100%" height="" src="https://wakatime.com/share/@434ed617-68d0-4415-8d3a-b025990cc933/601ec687-91cd-4957-bb8e-d0d0aa9af92c.svg" />
+<img width="100%" height="400" src="https://wakatime.com/share/@434ed617-68d0-4415-8d3a-b025990cc933/601ec687-91cd-4957-bb8e-d0d0aa9af92c.svg" />
 
 ###
 
