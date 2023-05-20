@@ -6,8 +6,8 @@
 
 ###
 
-<!-- START_SECTION:SHOW_TOTAL_CODE_TIME -->
-<!-- END_SECTION:SHOW_TOTAL_CODE_TIME -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 ###
 
