@@ -2,12 +2,7 @@
 
 ###
 
-<h3 align="center" >Temporary Personal Website 👉 <a target="_blank" href="https://jasonfrontendroadmap.vercel.app/">CLICK ME!</a></h2>
-
-###
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<figure><embed src="https://wakatime.com/share/@434ed617-68d0-4415-8d3a-b025990cc933/601ec687-91cd-4957-bb8e-d0d0aa9af92c.svg"></embed></figure>
 
 ###
 
