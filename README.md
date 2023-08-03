@@ -10,6 +10,21 @@
 
 <div align="center">
 <!--START_SECTION:waka-->
+
+```all_time
+From: 27 July 2023 - To: 03 August 2023
+
+Total Time: 39 hrs 41 mins
+
+Vue.js       24 hrs 44 mins  >>>>>>>>>>>>>>>>---------   62.04 %
+JavaScript   10 hrs 16 mins  >>>>>>-------------------   25.79 %
+TypeScript   2 hrs 56 mins   >>-----------------------   07.38 %
+Markdown     45 mins         -------------------------   01.88 %
+JSON         33 mins         -------------------------   01.38 %
+SCSS         18 mins         -------------------------   00.75 %
+Other        10 mins         -------------------------   00.45 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
