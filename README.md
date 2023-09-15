@@ -1,4 +1,4 @@
-<h1 align="center">Welcome😂! I'm a Front-End Developer from Taipei, Taiwan</h1>
+<!--<h1 align="center">Welcome😂! I'm a Front-End Developer from Taipei, Taiwan</h1> -->
 
 ###
 
@@ -128,10 +128,10 @@ SCSS               7 hrs 29 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ###
 
-<h3 align="left">Contact me via :</h3>
+<!-- <h3 align="left">Contact me via :</h3> -->
 
 ###
-
+<!--
 <div align="left">
   <a href="mailto:qazwsx5219430630@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -140,5 +140,5 @@ SCSS               7 hrs 29 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+-->
 ###
