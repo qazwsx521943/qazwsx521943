@@ -1,10 +1,3 @@
-<!--<h1 align="center">Welcome😂! I'm a Front-End Developer from Taipei, Taiwan</h1> -->
-
-###
-
-<div align="center">
-<img height="400" src="https://wakatime.com/share/@434ed617-68d0-4415-8d3a-b025990cc933/1531d6f7-4823-4684-9fa6-5b10aa049139.svg" />
-</div>
 
 ###
 
