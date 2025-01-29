@@ -57,17 +57,6 @@ Other              569 hrs 46 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://pinia.vuejs.org/logo.svg" height="48" width="56"/>
 </div>
 
-###
-
-<h3 align="left">UI Libraries :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" width="56"/>
-</div>
-
 <!-- ###
 
 <h3 align="left">Databases & ORM :</h3>
