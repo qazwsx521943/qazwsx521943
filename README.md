@@ -2,6 +2,10 @@
 ###
 
 <div align="center">
+  <h1>My Stats</h1>
+</div>
+
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```all_time
@@ -16,7 +20,7 @@ Other              621 hrs         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 </div>
 
-###
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qazwsx521943&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -29,7 +33,7 @@ Other              621 hrs         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
 <img src="https://raw.githubusercontent.com/qazwsx521943/qazwsx521943/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div> -->
-
+<!--
 ###
 
 <h3 align="left">Languages :</h3>
@@ -65,3 +69,4 @@ Other              621 hrs         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </div>
 
 ###
+-->
