@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 May 2023 - To: 21 December 2025
+From: 07 May 2023 - To: 22 December 2025
 
-Total Time: 4,601 hrs 59 mins
+Total Time: 4,604 hrs 8 mins
 
-Swift              2,781 hrs 40 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.44 %
+Swift              2,783 hrs 49 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.46 %
 Other              648 hrs 33 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.09 %
 ```
 
